@@ -1,0 +1,469 @@
+name,percent_return_on_investment,sector,above_below_sandp_return,predictions
+"Agilent Technologies, Inc.",215.40778498609825,Healthcare,0,0
+"American Airlines Group, Inc.",492.9765886287626,Industrials,1,1
+"Advance Auto Parts, Inc.",158.2908517934933,Consumer Cyclical,0,1
+"Apple, Inc.",641.4417492312947,Technology,1,0
+"AbbVie, Inc.",127.4937133277452,Healthcare,0,0
+AmerisourceBergen Corp.,258.11895451739036,Healthcare,1,1
+"ABIOMED, Inc.",2583.7341495408828,Healthcare,1,1
+Abbott Laboratories,167.45379876796713,Healthcare,0,0
+Accenture Plc,363.7269034202594,Technology,1,1
+"Adobe, Inc.",750.5111147168589,Technology,1,1
+"Analog Devices, Inc.",246.6091458153581,Technology,1,1
+Archer-Daniels-Midland Co.,64.20678029593557,Consumer Defensive,0,0
+"Automatic Data Processing, Inc.",316.68820910527074,Industrials,1,1
+Alliance Data Systems Corp.,239.24486918376945,Financial Services,1,1
+"Autodesk, Inc.",263.5355712965815,Technology,1,1
+Ameren Corp.,139.46566254258565,Utilities,0,0
+"American Electric Power Co., Inc.",132.23350253807112,Utilities,0,0
+The AES Corp.,9.185369908561917,Utilities,0,0
+"Aflac, Inc.",80.82494969818913,Financial Services,0,0
+Allergan Plc,275.6212069162945,Healthcare,1,0
+"American International Group, Inc.",40.946389496717714,Financial Services,0,0
+Apartment Investment & Management Co.,138.04546642278547,Real Estate,0,0
+"Assurant, Inc.",195.41298156198474,Financial Services,0,0
+Arthur J. Gallagher & Co.,231.88377535101404,Financial Services,1,1
+"Akamai Technologies, Inc.",63.01901435778036,Technology,0,1
+Albemarle Corp.,157.43469524447426,Basic Materials,0,0
+"Align Technology, Inc.",1296.549757627602,Healthcare,1,0
+"Alaska Air Group, Inc.",546.9907407407408,Industrials,1,1
+The Allstate Corp.,228.13408585599456,Financial Services,0,0
+"Alexion Pharmaceuticals, Inc.",289.7008337420304,Healthcare,1,0
+"Applied Materials, Inc.",255.01813784764204,Technology,1,1
+"Advanced Micro Devices, Inc.",124.44444444444447,Technology,0,0
+"AMETEK, Inc.",237.23258989531183,Technology,1,0
+"Affiliated Managers Group, Inc.",98.35750032080068,Financial Services,0,0
+"Amgen, Inc.",243.69801084990956,Healthcare,1,0
+"Ameriprise Financial, Inc.",219.29270946681174,Financial Services,0,0
+American Tower Corp.,230.84142394822013,Communication Services,1,0
+"Amazon.com, Inc.",1028.0622123472463,Technology,1,1
+"ANSYS, Inc.",242.0059582919563,Technology,1,1
+"Anthem, Inc.",375.0089863407621,Healthcare,1,0
+Aon Plc,284.445000625704,Financial Services,1,1
+A. O. Smith Corp.,549.7655334114888,Industrials,1,0
+Apache Corp.,-61.37907933773567,Energy,0,0
+"Air Products & Chemicals, Inc.",184.17579229820876,Basic Materials,0,0
+Amphenol Corp.,282.1664183868908,Technology,1,1
+Aptiv Plc,271.72671353251314,Consumer Cyclical,1,0
+"Alexandria Real Estate Equities, Inc.",127.87931997765185,Real Estate,0,0
+"Arconic, Inc.",-22.407688416793132,Industrials,0,0
+Atmos Energy Corp.,267.30284479654307,Utilities,1,0
+"Activision Blizzard, Inc.",359.4159966144731,Technology,1,1
+"AvalonBay Communities, Inc.",100.84215072338587,Real Estate,0,0
+"Broadcom, Inc.",1257.5929752066115,Technology,1,1
+Avery Dennison Corp.,170.0141807399768,Industrials,0,0
+"American Water Works Co., Inc.",297.195070123247,Utilities,1,0
+American Express Co.,145.58411214953273,Financial Services,0,1
+"AutoZone, Inc.",396.86644023227785,Consumer Cyclical,1,0
+The Boeing Co.,498.7441393168118,Industrials,1,0
+Bank of America Corp.,108.3118793674145,Financial Services,0,0
+"Baxter International, Inc.",137.17203733051596,Healthcare,0,0
+BB&T Corp.,103.3029381965552,Financial Services,0,0
+"Best Buy Co., Inc.",68.37222378408771,Consumer Cyclical,0,0
+"Becton, Dickinson & Co.",270.0021769102387,Healthcare,1,0
+"Franklin Resources, Inc.",-8.70733249051834,Financial Services,0,0
+"Biogen, Inc.",475.5145305185053,Healthcare,1,0
+The Bank of New York Mellon Corp.,93.46465390279823,Financial Services,0,0
+"Booking Holdings, Inc.",491.5196633759507,Consumer Cyclical,1,1
+"BlackRock, Inc.",137.58748351759812,Financial Services,0,0
+Ball Corp.,204.52380952380955,Consumer Cyclical,0,0
+Bristol-Myers Squibb Co.,132.0653256323442,Healthcare,0,0
+"Broadridge Financial Solutions, Inc.",563.1346578366445,Industrials,1,1
+Boston Scientific Corp.,332.2192513368984,Healthcare,1,0
+"BorgWarner, Inc.",103.63829787234044,Consumer Cyclical,0,0
+"Boston Properties, Inc.",69.62977498691784,Real Estate,0,0
+"Citigroup, Inc.",67.46428571428574,Financial Services,0,0
+"Conagra Brands, Inc.",106.99787943047563,Consumer Defensive,0,0
+"Cardinal Health, Inc.",33.61714204626082,Healthcare,0,0
+"Caterpillar, Inc.",90.62733636919734,Industrials,0,0
+Chubb Ltd.,160.88746569075937,Financial Services,0,0
+"Cboe Global Markets, Inc.",350.3828784606322,Financial Services,1,1
+"CBRE Group, Inc.",185.13205086403647,Real Estate,0,0
+"ViacomCBS, Inc.",264.8416886543536,Consumer Cyclical,1,0
+Crown Castle International Corp.,186.46492782983037,Real Estate,0,0
+Carnival Corp.,68.31179543579876,Consumer Cyclical,0,0
+"Cadence Design Systems, Inc.",513.0222841225627,Technology,1,1
+CDW Corp.,190.22675338372298,Technology,0,0
+Celanese Corp.,200.82381847087726,Basic Materials,0,0
+Celgene Corporation,200.8224811514736,Healthcare,0,0
+Cerner Corp.,204.4946492271106,Technology,0,1
+"CF Industries Holdings, Inc.",93.97475589426057,Basic Materials,0,0
+"Church & Dwight Co., Inc.",261.59003831417624,Consumer Defensive,1,0
+"C.H. Robinson Worldwide, Inc.",35.224855666970534,Industrials,0,0
+"Charter Communications, Inc.",814.1300607867875,Communication Services,1,1
+Cigna Corp.,509.52447945976365,Healthcare,1,0
+Cincinnati Financial Corp.,178.70189749955665,Financial Services,0,0
+Colgate-Palmolive Co.,67.85276073619634,Consumer Defensive,0,0
+The Clorox Co.,133.85949696444058,Consumer Defensive,0,0
+"Comerica, Inc.",148.98766935606636,Financial Services,0,0
+Comcast Corp.,333.4078212290503,Consumer Cyclical,1,0
+"CME Group, Inc.",168.5845617372008,Financial Services,0,1
+"Chipotle Mexican Grill, Inc.",127.98532452028071,Consumer Cyclical,0,0
+"Cummins, Inc.",114.9783315276273,Industrials,0,0
+CMS Energy Corp.,211.72519083969465,Utilities,0,0
+Centene Corp.,1057.5163398692807,Healthcare,1,0
+"CenterPoint Energy, Inc.",98.08416010947658,Utilities,0,0
+Capital One Financial Corp.,140.3437418000525,Financial Services,0,1
+Cabot Oil & Gas Corp.,184.9016480595428,Energy,0,0
+"The Cooper Cos., Inc.",655.6583818085668,Healthcare,1,0
+ConocoPhillips,38.193253287592896,Energy,0,0
+Costco Wholesale Corp.,365.6152904622916,Consumer Defensive,1,0
+Campbell Soup Co.,23.99630826026764,Consumer Defensive,0,0
+"Copart, Inc.",651.4823261117447,Consumer Cyclical,1,0
+"salesforce.com, inc.",353.953840332955,Technology,1,1
+"Cisco Systems, Inc.",144.89947877885325,Technology,0,0
+CSX Corp.,248.96086369770586,Industrials,1,0
+Cintas Corp.,629.6637234642118,Consumer Cyclical,1,1
+"CenturyLink, Inc.",-58.564988730277975,Communication Services,0,0
+Cognizant Technology Solutions Corp.,155.78364869689398,Technology,0,1
+"Citrix Systems, Inc.",131.5151515151515,Technology,0,1
+CVS Health Corp.,145.26566217287865,Healthcare,0,0
+Chevron Corp.,48.479228486646896,Energy,0,0
+"Concho Resources, Inc.",119.22374791650132,Energy,0,0
+"Dominion Energy, Inc.",100.30291556228703,Utilities,0,0
+"Delta Air Lines, Inc.",398.5777777777778,Industrials,1,1
+"DuPont de Nemours, Inc.",115.15503425850655,Basic Materials,0,0
+Deere & Co.,189.1879603528235,Industrials,0,0
+Discover Financial Services,342.5472575147195,Financial Services,1,1
+Dollar General Corp.,277.7153558052434,Consumer Defensive,1,0
+"Quest Diagnostics, Inc.",74.43312218856144,Healthcare,0,0
+"D.R. Horton, Inc.",298.3945923109421,Consumer Cyclical,1,0
+Danaher Corp.,233.48706967550643,Healthcare,1,1
+The Walt Disney Co.,320.8256107834878,Consumer Cyclical,1,0
+"Discovery, Inc.",26.519777010883978,Consumer Cyclical,0,0
+DISH Network Corp.,112.19264892268694,Communication Services,0,0
+"Digital Realty Trust, Inc.",130.21088769004416,Real Estate,0,0
+"Dollar Tree, Inc.",350.6094808126411,Consumer Defensive,1,0
+Dover Corp.,149.95439343265434,Industrials,0,0
+Duke Realty Corp.,150.04378283712782,Real Estate,0,0
+"Darden Restaurants, Inc.",198.87951307234752,Consumer Cyclical,0,0
+DTE Energy Co.,171.26157407407405,Utilities,0,0
+Duke Energy Corp.,70.39266265405563,Utilities,0,0
+"DaVita, Inc.",90.00000000000001,Healthcare,0,0
+Devon Energy Corp.,-51.91322901849218,Energy,0,0
+"Electronic Arts, Inc.",522.5687553161328,Technology,1,1
+"eBay, Inc.",190.49531459170012,Consumer Cyclical,0,0
+"Ecolab, Inc.",215.34918594687227,Basic Materials,0,0
+"Consolidated Edison, Inc.",84.71648924614382,Utilities,0,0
+"Equifax, Inc.",234.9519081600993,Industrials,1,1
+Edison International,90.8826382153249,Utilities,0,0
+"The Estée Lauder Companies, Inc.",572.886866059818,Consumer Defensive,1,0
+Eastman Chemical Co.,143.66633788924898,Basic Materials,0,0
+Emerson Electric Co.,61.79358237547893,Industrials,0,0
+"EOG Resources, Inc.",134.57092040907065,Energy,0,0
+"Equinix, Inc.",379.7133775720739,Technology,1,1
+Equity Residential,66.45820805772699,Real Estate,0,0
+Eversource Energy,170.23162134944613,Utilities,0,0
+"Essex Property Trust, Inc.",162.02395024926759,Real Estate,0,0
+E*TRADE Financial Corp.,214.39159975293384,Financial Services,0,1
+Eaton Corp. Plc,89.4973834732871,Industrials,0,0
+Entergy Corp.,13.361674296926102,Utilities,0,0
+Edwards Lifesciences Corp.,414.80868285504056,Healthcare,1,0
+Exelon Corp.,-0.16956816640290037,Utilities,0,0
+"Expeditors International of Washington, Inc.",62.2775800711744,Industrials,0,0
+"Expedia Group, Inc.",131.49733637747337,Consumer Cyclical,0,0
+"Extra Space Storage, Inc.",556.3760806916428,Real Estate,1,0
+Ford Motor Co.,-12.470402525651156,Consumer Cyclical,0,0
+Fastenal Co.,142.88194444444446,Industrials,0,0
+"Facebook, Inc.",359.90553306342775,Technology,1,1
+"Fortune Brands Home & Security, Inc.",145.80236117184083,Consumer Cyclical,0,0
+"Freeport-McMoRan, Inc.",-72.3336853220697,Basic Materials,0,0
+FedEx Corp.,191.51761517615174,Industrials,0,0
+FirstEnergy Corp.,-8.010171646535296,Utilities,0,0
+"F5 Networks, Inc.",160.1492659722792,Technology,0,1
+"Fidelity National Information Services, Inc.",296.38530676045326,Technology,1,1
+"Fiserv, Inc.",455.3085473361441,Industrials,1,1
+Fifth Third Bancorp,160.89086859688197,Financial Services,0,0
+"FLIR Systems, Inc.",63.36738288129621,Technology,0,0
+Flowserve Corp.,30.58099599313109,Industrials,0,0
+"FleetCor Technologies, Inc.",577.3266259432268,Industrials,1,1
+FMC Corp.,161.82551689359556,Basic Materials,0,0
+Federal Realty Investment Trust,86.81866011925638,Real Estate,0,0
+"Fortinet, Inc.",378.58017135862906,Technology,1,1
+General Dynamics Corp.,185.10685663401603,Industrials,0,0
+General Electric Co.,-20.884048686739256,Industrials,0,0
+"Gilead Sciences, Inc.",249.76076555023923,Healthcare,1,1
+"General Mills, Inc.",57.20157842814868,Consumer Defensive,0,0
+"Globe Life, Inc.",284.79120879120876,Financial Services,1,0
+"Corning, Inc.",85.13053348467655,Technology,0,0
+General Motors Co.,45.74811625403661,Consumer Cyclical,0,0
+"Alphabet, Inc.",316.3513302982568,Technology,1,1
+Genuine Parts Co.,131.3453862409016,Consumer Cyclical,0,0
+"Global Payments, Inc.",465.1495104525007,Industrials,1,1
+"Gap, Inc.",34.83068417415344,Consumer Cyclical,0,0
+Garmin Ltd.,112.8303141100216,Technology,0,0
+"The Goldman Sachs Group, Inc.",35.11408243375859,Financial Services,0,1
+"W.W. Grainger, Inc.",137.43680709534368,Industrials,0,0
+Halliburton Co.,10.475634665888544,Energy,0,0
+"Hasbro, Inc.",137.26966000519076,Consumer Cyclical,0,0
+"Huntington Bancshares, Inc.",193.60406091370558,Financial Services,0,0
+"Hanesbrands, Inc.",183.99378399378395,Consumer Cyclical,0,0
+"HCA Healthcare, Inc.",308.40425531914883,Healthcare,1,0
+"Healthpeak Properties, Inc.",-4.987234042553191,Real Estate,0,0
+"The Home Depot, Inc.",469.8258277106542,Consumer Cyclical,1,0
+Hess Corp.,-22.115239957875726,Energy,0,0
+HollyFrontier Corp.,232.1520618556701,Energy,1,0
+"The Hartford Financial Services Group, Inc.",111.96062002513614,Financial Services,0,0
+"Huntington Ingalls Industries, Inc.",526.5422643085922,Industrials,1,0
+"Harley-Davidson, Inc.",52.69695979078131,Consumer Cyclical,0,0
+"Hologic, Inc.",190.99246642646577,Healthcare,0,0
+"Honeywell International, Inc.",245.14179451417948,Industrials,1,0
+"Helmerich & Payne, Inc.",44.581560283687935,Energy,0,0
+"HP, Inc.",12.21432199085829,Technology,0,0
+"H&R Block, Inc.",41.57498552403011,Consumer Cyclical,0,0
+Hormel Foods Corp.,311.204759543877,Consumer Defensive,1,0
+"Henry Schein, Inc.",206.2986553432413,Healthcare,0,0
+"Host Hotels & Resorts, Inc.",42.710246052148385,Real Estate,0,0
+The Hershey Co.,164.63722777042472,Consumer Defensive,0,0
+"Humana, Inc.",494.6860873932696,Healthcare,1,0
+International Business Machines Corp.,2.8345878465210097,Technology,0,1
+"Intercontinental Exchange, Inc.",242.88272157564901,Financial Services,1,1
+"IDEXX Laboratories, Inc.",520.893470790378,Healthcare,1,0
+IDEX Corp.,298.9193925233645,Industrials,1,0
+"International Flavors & Fragrances, Inc.",213.5137993021043,Basic Materials,0,0
+"Illumina, Inc.",517.174819039263,Healthcare,1,0
+Incyte Corp.,608.09199318569,Healthcare,1,1
+Intel Corp.,161.433868974042,Technology,0,1
+"Intuit, Inc.",645.5786632798856,Technology,1,1
+International Paper Co.,102.6776924591455,Consumer Cyclical,0,0
+"Interpublic Group of Cos., Inc.",154.88372093023258,Consumer Cyclical,0,0
+IPG Photonics Corp.,693.1401789518534,Technology,1,1
+Ingersoll-Rand Plc,207.87995506339266,Industrials,0,0
+"Iron Mountain, Inc.",72.44167244167245,Industrials,0,1
+"Intuitive Surgical, Inc.",518.4336562534015,Healthcare,1,1
+"Gartner, Inc.",422.06751859622347,Technology,1,1
+"Illinois Tool Works, Inc.",213.4308373673911,Industrials,0,0
+Invesco Ltd.,27.28900828296395,Financial Services,0,0
+"J.B. Hunt Transport Services, Inc.",205.7865409344193,Industrials,0,0
+Johnson Controls International Plc,122.16652742968535,Basic Materials,0,0
+"Jacobs Engineering Group, Inc.",100.8582607598132,Industrials,0,0
+"Jack Henry & Associates, Inc.",505.8628841607565,Industrials,1,1
+Johnson & Johnson,130.9407500787898,Healthcare,0,0
+"Juniper Networks, Inc.",-6.376764562712964,Technology,0,0
+JPMorgan Chase & Co.,170.03857160632074,Financial Services,0,0
+"Nordstrom, Inc.",18.79530117470633,Consumer Cyclical,0,0
+Kellogg Co.,26.54997066301585,Consumer Defensive,0,0
+KeyCorp,173.83381924198252,Financial Services,0,0
+Kimco Realty Corp.,20.69439669989687,Real Estate,0,0
+KLA Corp.,264.26406197372853,Technology,1,1
+Kimberly-Clark Corp.,88.54376764824526,Consumer Defensive,0,0
+"Kinder Morgan, Inc.",-44.965910892658954,Energy,0,0
+"CarMax, Inc.",145.40165165165163,Consumer Cyclical,0,0
+The Coca-Cola Co.,55.82342401042515,Consumer Defensive,0,0
+The Kroger Co.,154.35393258426967,Consumer Defensive,0,0
+Kohl's Corp.,11.587389380530995,Consumer Cyclical,0,0
+Kansas City Southern,230.63973063973063,Industrials,1,0
+Loews Corp.,34.46074436294486,Financial Services,0,0
+"L Brands, Inc.",53.59904818560383,Consumer Cyclical,0,0
+"Leidos Holdings, Inc.",44.72865537504322,Technology,0,1
+"Leggett & Platt, Inc.",113.63746663431205,Consumer Cyclical,0,0
+Lennar Corp.,265.9925093632958,Consumer Cyclical,1,0
+Laboratory Corp. of America Holdings,91.21044701155199,Healthcare,0,0
+"L3Harris Technologies, Inc.",784.0186915887851,Industrials,1,0
+LKQ Corp.,240.16104680422745,Consumer Cyclical,1,0
+Eli Lilly & Co.,185.69025928521373,Healthcare,0,0
+Lockheed Martin Corp.,358.71367895907775,Industrials,1,0
+Lincoln National Corp.,196.7871485943775,Financial Services,0,0
+Alliant Energy Corp.,179.94446158593027,Utilities,0,0
+"Lowe's Cos., Inc.",279.50988467874794,Consumer Cyclical,1,0
+Lam Research Corp.,488.0405932864949,Technology,1,1
+Southwest Airlines Co.,387.87878787878793,Industrials,1,1
+Las Vegas Sands Corp.,79.41002075303882,Consumer Cyclical,0,0
+LyondellBasell Industries NV,144.08906384549144,Basic Materials,0,1
+"Macy's, Inc.",29.166666666666668,Consumer Cyclical,0,0
+"Mastercard, Inc.",631.9828990228012,Financial Services,1,1
+"Mid-America Apartment Communities, Inc.",90.30174402509921,Real Estate,0,0
+Macerich Co.,50.814075630252105,Real Estate,0,0
+"Marriott International, Inc.",296.82718634240615,Consumer Cyclical,1,0
+Masco Corp.,233.7633451957295,Basic Materials,1,0
+McDonald's Corp.,150.81565497444512,Consumer Cyclical,0,1
+"Microchip Technology, Inc.",178.07168570981372,Technology,0,1
+McKesson Corp.,94.05111317918248,Healthcare,0,1
+Moody's Corp.,514.81922924116,Industrials,1,1
+"Mondelez International, Inc.",71.31104498512167,Consumer Defensive,0,0
+Medtronic Plc,99.90521327014217,Healthcare,0,1
+"MetLife, Inc.",50.27480916030535,Financial Services,0,0
+MGM Resorts International,163.66340841478964,Consumer Cyclical,0,0
+"Mohawk Industries, Inc.",323.8453608247423,Consumer Cyclical,1,0
+"McCormick & Co., Inc.",208.2268067333249,Consumer Defensive,0,0
+"MarketAxess Holdings, Inc.",1231.5350032113038,Financial Services,1,1
+"Martin Marietta Materials, Inc.",128.01355309251707,Basic Materials,0,0
+"Marsh & McLennan Cos., Inc.",261.32780082987546,Financial Services,1,1
+3M Co.,173.20257469030844,Industrials,0,0
+Monster Beverage Corp.,736.7597004765146,Consumer Defensive,1,0
+"Altria Group, Inc.",187.48843663274744,Consumer Defensive,0,0
+The Mosaic Co.,-34.4905175184828,Basic Materials,0,0
+Marathon Petroleum Corp.,172.66894781864838,Energy,0,0
+"Merck & Co., Inc.",87.78148457047541,Healthcare,0,0
+Marathon Oil Corp.,-18.363772829622206,Energy,0,0
+Morgan Stanley,72.50177179305459,Financial Services,0,1
+"MSCI, Inc.",340.89529590288305,Financial Services,1,1
+Microsoft Corp.,370.5434552759569,Technology,1,1
+"Motorola Solutions, Inc.",245.7094955037342,Technology,1,0
+M&T Bank Corp.,134.49878598681926,Financial Services,0,0
+"Mettler-Toledo International, Inc.",457.1428571428571,Healthcare,1,0
+"Micron Technology, Inc.",604.4975404075896,Technology,1,1
+"Maxim Integrated Products, Inc.",228.11857939536247,Technology,0,1
+Mylan NV,90.00263088660876,Healthcare,0,0
+"Noble Energy, Inc.",-30.786636496738986,Energy,0,0
+Norwegian Cruise Line Holdings Ltd.,80.52962145645901,Consumer Cyclical,0,0
+"Nasdaq, Inc.",311.8591279348347,Financial Services,1,1
+"NextEra Energy, Inc.",227.45135811982286,Utilities,0,0
+Newmont Corp.,-38.93851357210997,Basic Materials,0,0
+"Netflix, Inc.",1526.3614196694664,Communication Services,1,0
+"NiSource, Inc.",338.36833602584807,Utilities,1,0
+"NIKE, Inc.",371.38047138047136,Consumer Cyclical,1,0
+Nielsen Holdings Plc,17.619134562716827,Industrials,0,1
+Northrop Grumman Corp.,462.8440794998601,Industrials,1,0
+"National Oilwell Varco, Inc.",-29.984317825405128,Energy,0,0
+"NRG Energy, Inc.",55.29330889092574,Utilities,0,0
+Norfolk Southern Corp.,171.9592517783437,Industrials,0,0
+"NetApp, Inc.",57.219118559900686,Technology,0,0
+Northern Trust Corp.,94.87611496531217,Financial Services,0,0
+Nucor Corp.,43.60683553508666,Basic Materials,0,0
+NVIDIA Corp.,865.3290056063735,Technology,1,1
+"NVR, Inc.",354.00690024837866,Consumer Cyclical,1,0
+"Newell Brands, Inc.",72.81191806331474,Consumer Defensive,0,0
+Realty Income Corp.,101.57903578027884,Real Estate,0,0
+"ONEOK, Inc.",186.36250311642982,Energy,0,0
+"Omnicom Group, Inc.",80.10081613058091,Consumer Cyclical,0,0
+Oracle Corp.,122.33737596471887,Technology,0,1
+"O'Reilly Automotive, Inc.",481.3795174692162,Consumer Cyclical,1,0
+Occidental Petroleum Corp.,-14.309927360774811,Energy,0,0
+"Paychex, Inc.",147.39115411195579,Industrials,0,1
+"People's United Financial, Inc.",25.052264808362356,Financial Services,0,0
+"PACCAR, Inc.",39.19523099850968,Industrials,0,0
+"Public Service Enterprise Group, Inc.",72.23630028508077,Utilities,0,0
+"PepsiCo, Inc.",86.0459587955626,Consumer Defensive,0,0
+Pfizer Inc.,131.61744022503518,Healthcare,0,0
+"Principal Financial Group, Inc.",121.82191525107335,Financial Services,0,0
+Procter & Gamble Co.,53.75480265455814,Consumer Defensive,0,0
+Progressive Corp.,222.46920192822705,Financial Services,0,0
+Parker-Hannifin Corp.,204.43628143543373,Industrials,0,0
+"PulteGroup, Inc.",283.3438485804416,Consumer Cyclical,1,0
+Packaging Corporation of America,353.5578947368421,Consumer Cyclical,1,0
+"PerkinElmer, Inc. (United States)",260.2789023841655,Healthcare,1,1
+"Prologis, Inc.",153.0305873522237,Real Estate,0,0
+"Philip Morris International, Inc.",78.52531112566669,Consumer Defensive,0,0
+"The PNC Financial Services Group, Inc.",148.54142357059507,Financial Services,0,0
+Pentair Plc,107.93319415448852,Industrials,0,0
+Pinnacle West Capital Corp.,136.42055830941823,Utilities,0,0
+"PPG Industries, Inc.",224.06639004149383,Basic Materials,0,0
+PPL Corp.,27.32426303854874,Utilities,0,0
+Perrigo Co. Plc,72.77216352779052,Healthcare,0,0
+"Prudential Financial, Inc.",106.19590873328089,Financial Services,0,0
+Public Storage,138.316865034808,Real Estate,0,0
+Phillips 66,54.29547673283436,Energy,0,0
+PVH Corp.,127.6054173470368,Consumer Cyclical,0,0
+"Quanta Services, Inc.",98.96739130434784,Industrials,0,0
+Pioneer Natural Resources Co.,144.7509457755359,Energy,0,0
+"QUALCOMM, Inc.",70.60330771022593,Technology,0,1
+Royal Caribbean Cruises Ltd.,262.51892219194673,Consumer Cyclical,1,0
+Everest Re Group Ltd.,161.94056358039307,Financial Services,0,0
+Regency Centers Corp.,76.08956417433028,Real Estate,0,0
+"Regeneron Pharmaceuticals, Inc.",1445.9219492050383,Healthcare,1,1
+Regions Financial Corp.,190.65502183406116,Financial Services,0,0
+"Robert Half International, Inc.",130.65735892961024,Industrials,0,1
+"Raymond James Financial, Inc.",270.8487890028366,Financial Services,1,1
+Ralph Lauren Corp.,11.009881899252848,Consumer Cyclical,0,0
+"ResMed, Inc.",331.35812288725396,Healthcare,1,0
+"Rockwell Automation, Inc.",254.00580707602964,Industrials,1,0
+"Rollins, Inc.",437.6642335766423,Industrials,1,1
+"Roper Technologies, Inc.",341.8961447678994,Industrials,1,0
+"Ross Stores, Inc.",515.5780780780782,Consumer Cyclical,1,0
+"Republic Services, Inc.",147.5,Industrials,0,0
+Raytheon Co.,263.2104997476022,Industrials,1,0
+SBA Communications Corp.,367.17178674748584,Communication Services,1,0
+Starbucks Corp.,575.4164790634849,Consumer Cyclical,1,0
+The Charles Schwab Corp.,181.4463544754001,Financial Services,0,1
+Sealed Air Corp.,82.04683434518647,Consumer Cyclical,0,0
+The Sherwin-Williams Co.,488.6597192068317,Basic Materials,1,0
+SVB Financial Group,468.65163260512094,Financial Services,1,0
+The J. M. Smucker Co.,78.8834029624003,Consumer Defensive,0,0
+Schlumberger NV,-23.690721649484537,Energy,0,0
+SL Green Realty Corp.,77.30769230769234,Real Estate,0,0
+"Snap-On, Inc.",251.07475136349052,Industrials,1,0
+"Synopsys, Inc.",399.06103286384973,Technology,1,1
+The Southern Co.,39.5809739524349,Utilities,0,0
+"Simon Property Group, Inc.",113.80914488584193,Real Estate,0,0
+"S&P Global, Inc.",437.67406273909717,Industrials,1,1
+Sempra Energy,127.00967711028073,Utilities,0,0
+"SunTrust Banks, Inc.",163.3050847457627,Financial Services,0,0
+State Street Corp.,92.67595978062158,Financial Services,0,0
+Seagate Technology Plc,326.84563758389254,Technology,1,0
+"Constellation Brands, Inc.",1001.6713881019831,Consumer Defensive,1,0
+"Stanley Black & Decker, Inc.",166.71769473210264,Industrials,0,0
+"Skyworks Solutions, Inc.",462.31835079418715,Technology,1,1
+Stryker Corp.,224.21590797365053,Healthcare,0,1
+Symantec Corp.,43.43493552168813,Technology,0,1
+Sysco Corp.,158.80934718100892,Consumer Defensive,0,0
+"AT&T, Inc.",22.9895420122611,Communication Services,0,0
+Molson Coors Beverage Co.,55.13928914505283,Consumer Defensive,0,0
+"TransDigm Group, Inc.",763.9585977931843,Industrials,1,0
+TE Connectivity Ltd.,271.95647710942313,Technology,1,0
+"Teleflex, Inc.",426.6738030362009,Healthcare,1,1
+Target Corp.,21.288774002954213,Consumer Defensive,0,0
+Tiffany & Co.,77.98997825470357,Consumer Cyclical,0,0
+"The TJX Cos., Inc.",303.1003937007874,Consumer Cyclical,1,1
+"Thermo Fisher Scientific, Inc.",346.68141592920347,Healthcare,1,0
+"T-Mobile US, Inc.",240.47619047619045,Communication Services,1,0
+"Tapestry, Inc.",7.00712589073634,Consumer Cyclical,0,1
+"TripAdvisor, Inc.",51.772831926323846,Consumer Cyclical,0,0
+"T. Rowe Price Group, Inc.",87.25825853613401,Financial Services,0,0
+"The Travelers Cos., Inc.",147.7625825658201,Financial Services,0,0
+Tractor Supply Co.,394.0230582524271,Consumer Cyclical,1,0
+"Tyson Foods, Inc.",450.5710206995003,Consumer Defensive,1,0
+"Take-Two Interactive Software, Inc.",866.255550074001,Technology,1,1
+Texas Instruments Incorporated,238.94395078605615,Technology,1,1
+"Textron, Inc.",156.65364284072626,Industrials,0,0
+"Under Armour, Inc.",253.3777354900095,Consumer Cyclical,1,0
+"United Airlines Holdings, Inc.",334.15233415233416,Industrials,1,1
+"UDR, Inc.",117.4350821409645,Real Estate,0,0
+"Universal Health Services, Inc.",252.9818496110631,Healthcare,1,0
+"Ulta Beauty, Inc.",829.9809523809523,Consumer Cyclical,1,0
+"UnitedHealth Group, Inc.",673.1053186680729,Healthcare,1,0
+Unum Group,123.54080891256962,Financial Services,0,0
+Union Pacific Corp.,323.89573703133027,Industrials,1,0
+"United Parcel Service, Inc.",82.16826476956388,Industrials,0,0
+"United Rentals, Inc.",821.7317487266554,Industrials,1,0
+U.S. Bancorp,125.12873326467559,Financial Services,0,0
+United Technologies Corp.,66.63476001640915,Industrials,0,0
+"Visa, Inc.",830.887810448187,Financial Services,1,0
+"Varian Medical Systems, Inc.",159.1119005328597,Healthcare,0,1
+VF Corp.,347.57757212847025,Consumer Cyclical,1,0
+Viacom Inc.,-12.355526615660105,Consumer Cyclical,0,0
+Valero Energy Corp.,399.4566857832781,Energy,1,0
+Vulcan Materials Co.,151.07158638974815,Basic Materials,0,0
+Vornado Realty Trust,37.89145008724401,Real Estate,0,0
+"Verisk Analytics, Inc.",275.54116243395254,Industrials,1,1
+"VeriSign, Inc.",375.92849704963555,Technology,1,1
+"Vertex Pharmaceuticals, Inc.",343.8625204582652,Healthcare,1,1
+"Ventas, Inc.",19.653340788370148,Real Estate,0,0
+"Verizon Communications, Inc.",74.55328653477983,Communication Services,0,0
+Westinghouse Air Brake Technologies Corp.,292.7344475394615,Industrials,1,0
+Waters Corp.,189.4481460023175,Technology,0,0
+"Walgreens Boots Alliance, Inc.",100.11624045167717,Healthcare,0,0
+"WellCare Health Plans, Inc.",641.3674141445822,Healthcare,1,0
+Western Digital Corp.,115.19440654843109,Technology,0,0
+"WEC Energy Group, Inc.",167.96757164404224,Utilities,0,0
+"Welltower, Inc.",55.301524188204134,Real Estate,0,0
+Wells Fargo & Co.,98.91930835734871,Financial Services,0,0
+Whirlpool Corp.,94.34785482911353,Technology,0,0
+Willis Towers Watson Plc,104.25464660513337,Financial Services,0,1
+"Waste Management, Inc.",158.140221402214,Industrials,0,0
+"The Williams Cos., Inc.",55.03242176487171,Energy,0,0
+"Walmart, Inc.",76.42246530011951,Consumer Defensive,0,0
+The Western Union Co.,5.23001095290253,Financial Services,0,0
+Weyerhaeuser Co.,7.577337504344789,Basic Materials,0,0
+Wynn Resorts Ltd.,62.88852535639167,Consumer Cyclical,0,0
+Cimarex Energy Co.,53.25757575757577,Energy,0,0
+"Xcel Energy, Inc.",135.12173128944994,Utilities,0,0
+"Xilinx, Inc.",219.7456383499103,Technology,0,1
+Exxon Mobil Corp.,11.74594557915451,Energy,0,0
+"Dentsply Sirona, Inc.",58.83521858758789,Healthcare,0,0
+Xerox Holdings Corp.,10.848508330104615,Technology,0,1
+"Xylem, Inc.",182.39408473221425,Industrials,0,0
+"Yum! Brands, Inc.",185.64219436757287,Consumer Cyclical,0,0
+"Zimmer Biomet Holdings, Inc.",16.09367238800098,Healthcare,0,0
+Zions Bancorporation NA,198.12291855888583,Financial Services,0,0
+"Zoetis, Inc.",119.63718220338986,Healthcare,0,0
